@@ -6,11 +6,13 @@
 
 a{
     text-decoration: none;
+    color: palevioletred;
+    font-weight: bold;
 }
 
 a:hover{
     text-decoration: solid 1px;
-    color:red;
+    color: lightsteelblue;
 }
 
 #title{
